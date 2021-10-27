@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Smarika Shrestha.
-- 👀 I’m interested in networking.
+- 👀 I’m interested in networking and programming.
 - 🌱 I’m currently learning Computer networking, cyber security and ethical hacking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me smarika121stha@gmail.com
